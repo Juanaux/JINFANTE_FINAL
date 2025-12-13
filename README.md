@@ -1,3 +1,15 @@
+Colaborativo 1
+https://github.com/jinfante21/Prueba-Desarrollo-de-Portafolio/commits/main/
+
+Colaborativo  2
+https://github.com/jinfante21/Trabajo_Colaborativo_y_Github_Pages/commits/main/
+
+Despliegue
+https://jinfante21.github.io/JINFANTE_FINAL/
+
+
+
+
 # Currículum Vitae y Portafolio – Jhonny Infante Vargas
 
 Este repositorio contiene mi **Currículum Vitae y Portafolio personal**, desarrollado como parte del proceso formativo en **Desafío Latam**, utilizando **HTML, CSS y Bootstrap**.
